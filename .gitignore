@@ -1,0 +1,7 @@
+dist/
+tools/payload.zip
+*.o
+*.exe.before-fix
+*.log
+memtune.log
+fanbridge.log
